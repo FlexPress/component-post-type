@@ -1,0 +1,10 @@
+{
+    "name": "flexpress/component-post-type",
+    "description": "Post type helper for WordPress",
+    "autoload": {
+        "psr-4": {
+            "FlexPress\\Components\\PostType\\": "src/FlexPress/Components/PostType/"
+        }
+    }
+
+}
